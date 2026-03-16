@@ -291,7 +291,7 @@ def show_networking():
             padding-left:1.2rem;
         ">
             <li style="margin-bottom:0.4rem;">
-                <b style="color:#fff;">Anillo verde</b> + <b style="color:#9c27b0;">post-it morado</b> →
+                <b style="color:#c8e6c9;">Anillo verde 🟢</b> + <b style="color:#fff;">sponsor 🏆</b> + <b style="color:#9c27b0;">post-it morado 🟪</b> →
                 alguien a quien ya conozco y que podría ser mi próximo jefe —
                 es una conversación prioritaria.
             </li>
