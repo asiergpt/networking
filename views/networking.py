@@ -188,13 +188,12 @@ def show_networking():
             }
         }
         </style>
-
         <div class="legend-section-title">Los anillos: mi nivel de acceso</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f0fff4; border-color:#c8e6c9;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#4caf50;"></div>
-                    🟢 Verde (Conexión Directa)
+                    Verde (Conexión Directa)
                 </div>
                 <div class="legend-card-desc">
                    Es mi círculo de confianza y acción inmediata. Son personas con las que ya tengo una relación activa y establecida; ya hemos intercambiado correos, tenido reuniones o colaborado en proyectos.
@@ -203,7 +202,7 @@ def show_networking():
             <div class="legend-card" style="background:#fffde7; border-color:#fff176;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#fdd835;"></div>
-                    🟡 Amarillo (Conexión Indirecta)
+                    Amarillo (Conexión Indirecta)
                 </div>
                 <div class="legend-card-desc">
                    Están a un grado de separación. Aún no tengo contacto directo con ellos, pero alguien de mi anillo verde puede hacerme de puente. Es mi zona principal de expansión.
@@ -212,14 +211,13 @@ def show_networking():
             <div class="legend-card" style="background:#fff5f5; border-color:#ffcdd2;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#ef5350;"></div>
-                    🔴 Rojo (Sin conexión)
+                    Rojo (Sin conexión)
                 </div>
                 <div class="legend-card-desc">
                     No tengo acceso ni puente claro todavía. Son mi objetivo a medio o largo plazo; para llegar a ellos, primero debo nutrir y expandir mi anillo amarillo.
                 </div>
             </div>
         </div>
-
         <div class="legend-section-title">Los Sectores: Su rol en mi red</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f8f8f8;">
@@ -252,8 +250,7 @@ def show_networking():
                 <div class="legend-card-desc">
                     Personas a las que podría reportar directamente en mi próximo rol. Entender sus dolores, sus metodologías y qué valoran es clave para saber cómo posicionarme ante ellos.
                 </div>
-            </div>
-            
+            </div>            
             <div class="legend-card" style="background:#e8f0fe; border-color:#c5cae9;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#5c6bc0;"></div>
@@ -282,7 +279,6 @@ def show_networking():
                 </div>
             </div>
         </div>
-
         <div style="
             background:#0d0d0d; border-radius:10px; padding:14px 18px;
             border:1px solid rgba(255,204,102,0.15); margin-top:4px;
