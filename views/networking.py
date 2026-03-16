@@ -149,7 +149,7 @@ def show_networking():
     """, unsafe_allow_html=True)
 
     # ---- LEYENDA DESPLEGABLE ----
-    with st.expander("📖 Cómo leer este mapa", expanded=True):
+    with st.expander("📖 Cómo leer este mapa - 3 dimensiones", expanded=True):
         st.markdown("""
         <style>
         .legend-grid {
@@ -178,12 +178,14 @@ def show_networking():
         }
         .legend-section-title {
             font-family: 'Quicksand', sans-serif;
-            font-size: 0.78rem;
+            font-size: 0.85rem;
             font-weight: 700;
-            letter-spacing: 2px;
+            letter-spacing: 2.5px;
             text-transform: uppercase;
-            color: #777777;
-            margin: 24px 0 12px;
+            color: #444444;
+            margin: 28px 0 14px;
+            border-left: 3px solid #ffcc66;
+            padding-left: 10px;
         }
         @media (max-width: 640px) {
             .legend-grid {
