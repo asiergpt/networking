@@ -292,13 +292,11 @@ def show_networking():
         ">
             <li style="margin-bottom:0.4rem;">
                 <b style="color:#c8e6c9;">Anillo verde 🟢</b> + <b style="color:#fff;">sponsor 🏆</b> + <b style="color:#9c27b0;">post-it morado 🟪</b> →
-                alguien a quien ya conozco y que podría ser mi próximo jefe —
-                es una conversación prioritaria.
+                alguien a quien ya conozco y que podría ser mi próximo jefe — es una conversación prioritaria.
             </li>
             <li>
-                <b style="color:#fff;">Anillo amarillo</b> + <b style="color:#5c6bc0;">post-it azul</b> →
-                un profesional similar del sector al que aún no tengo acceso,
-                pero que vale la pena activar a través del anillo verde.
+                <b style="color:#ffcc66;">Anillo amarillo 🟡</b> + <b style="color:#fff;">conector 🔗</b> + <b style="color:#5c6bc0;">post-it azul 🟦</b> →
+                un homólogo accesible que me sirve de puente hacia Sponsors o Mentores  — es una conversación táctica.
             </li>
         </ul>
         </div>
