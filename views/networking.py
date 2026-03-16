@@ -189,94 +189,96 @@ def show_networking():
         }
         </style>
 
-        <div class="legend-section-title">Los tres anillos — nivel de acceso</div>
+        <div class="legend-section-title">Los anillos: mi nivel de acceso</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f0fff4; border-color:#c8e6c9;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#4caf50;"></div>
-                    Verde — Conexión directa
+                    🟢 Verde (Conexión Directa)
                 </div>
                 <div class="legend-card-desc">
-                    Ya hemos intercambiado correo o tenido una conversación. Relación activa y establecida.
+                   Es mi círculo de confianza y acción inmediata. Son personas con las que ya tengo una relación activa y establecida; ya hemos intercambiado correos, tenido reuniones o colaborado en proyectos.
                 </div>
             </div>
             <div class="legend-card" style="background:#fffde7; border-color:#fff176;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#fdd835;"></div>
-                    Amarillo — Accesible con puente
+                    🟡 Amarillo (Conexión Indirecta)
                 </div>
                 <div class="legend-card-desc">
-                    Aún no hay contacto directo, pero alguien del círculo verde puede hacer la introducción.
+                   Están a un grado de separación. Aún no tengo contacto directo con ellos, pero alguien de mi anillo verde puede hacerme de puente. Es mi zona principal de expansión.
                 </div>
             </div>
             <div class="legend-card" style="background:#fff5f5; border-color:#ffcdd2;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#ef5350;"></div>
-                    Rojo — Sin acceso aún
+                    🔴 Rojo (Sin conexión)
                 </div>
                 <div class="legend-card-desc">
-                    No hay conexión directa ni puente claro todavía. El acceso pasa por desarrollar primero el círculo amarillo.
+                    No tengo acceso ni puente claro todavía. Son mi objetivo a medio o largo plazo; para llegar a ellos, primero debo nutrir y expandir mi anillo amarillo.
                 </div>
             </div>
         </div>
 
-        <div class="legend-section-title">Los tres sectores — tipo de relación</div>
+        <div class="legend-section-title">Los Sectores: Su rol en mi red</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f8f8f8;">
                 <div class="legend-card-title">🏆 Sponsors</div>
                 <div class="legend-card-desc">
-                    Personas con poder de decisión que pueden abrirte puertas a oportunidades ejecutivas de forma activa. Son el objetivo final del mapa.
+                    Son personas con poder de decisión y capacidad real para abrirme puertas a oportunidades ejecutivas. Son el objetivo final de mi estrategia.
                 </div>
             </div>
             <div class="legend-card" style="background:#f8f8f8;">
                 <div class="legend-card-title">🧭 Mentores</div>
                 <div class="legend-card-desc">
-                    Personas con experiencia y criterio que orientan, aconsejan y validan tu propuesta de valor en el ecosistema vasco.
+                    Me aportan experiencia, perspectiva y criterio. Me ayudan a orientar mi carrera y a validar mi propuesta de valor dentro del ecosistema vasco.
                 </div>
             </div>
             <div class="legend-card" style="background:#f8f8f8;">
                 <div class="legend-card-title">🔗 Conectores</div>
                 <div class="legend-card-desc">
-                    Personas bien relacionadas que facilitan el acceso a Sponsors. Su valor está en la introducción y el respaldo indirecto.
+                    Son mis "multiplicadores". Profesionales muy bien relacionados cuyo principal valor es facilitarme introducciones y servir de puente hacia los Sponsors o Mentores.
                 </div>
             </div>
         </div>
-        <div class="legend-section-title">Los colores de los post-its — dimensión profesional</div>
+        <div class="legend-section-title">Los Post-its: Su dimensión profesional</div>
         <div class="legend-grid">
-            <div class="legend-card" style="background:#e8f0fe; border-color:#c5cae9;">
-                <div class="legend-card-title">
-                    <div class="legend-dot" style="background:#5c6bc0;"></div>
-                    Azul — Ocupación similar
-                </div>
-                <div class="legend-card-desc">
-                    Profesionales con un rol parecido al que aspiras. Son tu referencia de mercado y te ayudan a calibrar tu propuesta de valor.
-                </div>
-            </div>
+
             <div class="legend-card" style="background:#f3e5f5; border-color:#e1bee7;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#9c27b0;"></div>
-                    Morado — Posible superior
+                    Morado (Posible Superior)
                 </div>
                 <div class="legend-card-desc">
-                    Personas a las que podrías reportar en tu próximo rol. Entender cómo trabajan y qué valoran es clave para posicionarte.
+                    Personas a las que podría reportar directamente en mi próximo rol. Entender sus dolores, sus metodologías y qué valoran es clave para saber cómo posicionarme ante ellos.
+                </div>
+            </div>
+            
+            <div class="legend-card" style="background:#e8f0fe; border-color:#c5cae9;">
+                <div class="legend-card-title">
+                    <div class="legend-dot" style="background:#5c6bc0;"></div>
+                    🟦 Azul (Pares / Similares)
+                </div>
+                <div class="legend-card-desc">
+                   Profesionales que ocupan roles similares al que aspiro. Son mi termómetro de mercado y me ayudan a calibrar mi discurso y mi propuesta de valor.
                 </div>
             </div>
             <div class="legend-card" style="background:#e8f5e9; border-color:#c8e6c9;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#43a047;"></div>
-                    Verde — Posible equipo
+                    🟩 Verde claro (Posible Equipo)
                 </div>
                 <div class="legend-card-desc">
-                    Personas que te podrían reportar. Escucharles te da una visión real de cómo funciona el terreno desde dentro.
+                   Personas que podrían reportarme o estar a mi cargo. Escucharlos me da una visión real de "las trincheras" y de la cultura operativa del terreno desde dentro.
                 </div>
             </div>
             <div class="legend-card" style="background:#f5f5f5; border-color:#eeeeee;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#9e9e9e;"></div>
-                    Gris — Relación indirecta
+                    ⬜ Gris (Relación indirecta)
                 </div>
                 <div class="legend-card-desc">
-                    No encaja en ninguna de las categorías anteriores, pero forma parte del ecosistema y puede aportar contexto o acceso.
+                    No encajan en la estructura jerárquica directa de mi objetivo, pero aportan contexto, me hablan de tendencias y me dan una visión transversal del mercado.
                 </div>
             </div>
         </div>
@@ -290,11 +292,11 @@ def show_networking():
                 color:#aaaaaa; line-height:1.7; margin:0;
             ">
                 💡 <span style="color:#ffcc66; font-weight:600;">Cómo usarlo:</span>
-                Cruza las tres dimensiones. Una persona en <b style="color:#fff;">círculo verde</b> +
-                <b style="color:#9c27b0;">post-it morado</b> es alguien a quien ya conoces y que podría ser tu próximo jefe —
-                es una conversación prioritaria. Una persona en <b style="color:#fff;">círculo rojo</b> +
-                <b style="color:#5c6bc0;">post-it azul</b> es un referente del sector al que aún no tienes acceso,
-                pero que vale la pena activar a través del círculo amarillo.
+                Cruza las tres dimensiones. Una persona en el <b style="color:#fff;">anillo verde</b> +
+                <b style="color:#9c27b0;">post-it morado</b> es alguien a quien ya conozco y que podría ser mi próximo jefe —
+                es una conversación prioritaria. Una persona en el <b style="color:#fff;">anillo amarillo</b> +
+                <b style="color:#5c6bc0;">post-it azul</b> es un profesional similar del sector al que aún no tengo acceso,
+                pero que vale la pena activar a través del anillo verde.
             </p>
         </div>
         <div style="height: 20px;"></div>
