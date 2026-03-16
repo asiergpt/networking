@@ -243,8 +243,7 @@ def show_networking():
         <div class="legend-grid">
             <div class="legend-card" style="background:#f3e5f5; border-color:#e1bee7;">
                 <div class="legend-card-title">
-                    <div class="legend-dot" style="background:#9c27b0;"></div>
-                    Morado (Posible Superior)
+                   🟪 Morado (Posible Superior)
                 </div>
                 <div class="legend-card-desc">
                     Personas a las que podría reportar directamente en mi próximo rol. Entender sus dolores, sus metodologías y qué valoran es clave para saber cómo posicionarme ante ellos.
@@ -252,7 +251,6 @@ def show_networking():
             </div>            
             <div class="legend-card" style="background:#e8f0fe; border-color:#c5cae9;">
                 <div class="legend-card-title">
-                    <div class="legend-dot" style="background:#5c6bc0;"></div>
                     🟦 Azul (Pares / Similares)
                 </div>
                 <div class="legend-card-desc">
@@ -261,7 +259,6 @@ def show_networking():
             </div>
             <div class="legend-card" style="background:#e8f5e9; border-color:#c8e6c9;">
                 <div class="legend-card-title">
-                    <div class="legend-dot" style="background:#43a047;"></div>
                     🟩 Verde claro (Posible Equipo)
                 </div>
                 <div class="legend-card-desc">
@@ -270,7 +267,6 @@ def show_networking():
             </div>
             <div class="legend-card" style="background:#f5f5f5; border-color:#eeeeee;">
                 <div class="legend-card-title">
-                    <div class="legend-dot" style="background:#9e9e9e;"></div>
                     ⬜ Gris (Relación indirecta)
                 </div>
                 <div class="legend-card-desc">
