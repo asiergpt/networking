@@ -278,17 +278,29 @@ def show_networking():
             background:#0d0d0d; border-radius:10px; padding:14px 18px;
             border:1px solid rgba(255,204,102,0.15); margin-top:4px;
         ">
-            <p style="
-                font-family:'Manrope',sans-serif; font-size:0.84rem;
-                color:#aaaaaa; line-height:1.7; margin:0;
-            ">
-                💡 <span style="color:#ffcc66; font-weight:600;">Cómo usarlo:</span>
-                Cruza las tres dimensiones. Una persona en el <b style="color:#fff;">anillo verde</b> +
-                <b style="color:#9c27b0;">post-it morado</b> es alguien a quien ya conozco y que podría ser mi próximo jefe —
-                es una conversación prioritaria. Una persona en el <b style="color:#fff;">anillo amarillo</b> +
-                <b style="color:#5c6bc0;">post-it azul</b> es un profesional similar del sector al que aún no tengo acceso,
+        <p style="
+            font-family:'Manrope',sans-serif; font-size:0.84rem;
+            color:#aaaaaa; line-height:1.7; margin:0;
+        ">
+            💡 <span style="color:#ffcc66; font-weight:600;">Cómo usarlo:</span>
+            Cruza las tres dimensiones:
+        </p>
+        <ul style="
+            font-family:'Manrope',sans-serif; font-size:0.84rem;
+            color:#aaaaaa; line-height:1.7; margin:0.5rem 0 0 0;
+            padding-left:1.2rem;
+        ">
+            <li style="margin-bottom:0.4rem;">
+                <b style="color:#fff;">Anillo verde</b> + <b style="color:#9c27b0;">post-it morado</b> →
+                alguien a quien ya conozco y que podría ser mi próximo jefe —
+                es una conversación prioritaria.
+            </li>
+            <li>
+                <b style="color:#fff;">Anillo amarillo</b> + <b style="color:#5c6bc0;">post-it azul</b> →
+                un profesional similar del sector al que aún no tengo acceso,
                 pero que vale la pena activar a través del anillo verde.
-            </p>
+            </li>
+        </ul>
         </div>
         <div style="height: 20px;"></div>
         """, unsafe_allow_html=True)
