@@ -239,7 +239,7 @@ def show_networking():
                 </div>
             </div>
         </div>
-        <div class="legend-section-title">Los Post-its: Su posición en el organigrama de las compañíasl</div>
+        <div class="legend-section-title">Los Post-its: Su posición en el organigrama de las compañías</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f3e5f5; border-color:#e1bee7;">
                 <div class="legend-card-title">
