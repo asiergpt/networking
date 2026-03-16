@@ -211,7 +211,7 @@ def show_networking():
             <div class="legend-card" style="background:#fff5f5; border-color:#ffcdd2;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#ef5350;"></div>
-                    Rojo (Sin conexión)
+                    Rojo (Sin Conexión)
                 </div>
                 <div class="legend-card-desc">
                     No tengo acceso ni puente claro todavía. Son mi objetivo a medio o largo plazo; para llegar a ellos, primero debo nutrir y expandir mi anillo amarillo.
@@ -241,7 +241,6 @@ def show_networking():
         </div>
         <div class="legend-section-title">Los Post-its: Su dimensión profesional</div>
         <div class="legend-grid">
-
             <div class="legend-card" style="background:#f3e5f5; border-color:#e1bee7;">
                 <div class="legend-card-title">
                     <div class="legend-dot" style="background:#9c27b0;"></div>
