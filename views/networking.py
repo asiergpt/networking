@@ -178,9 +178,12 @@ def show_networking():
         }
         .legend-section-title {
             font-family: 'Quicksand', sans-serif;
-            font-size: 0.68rem; font-weight: 700;
-            letter-spacing: 2px; text-transform: uppercase;
-            color: #aaaaaa; margin: 18px 0 10px;
+            font-size: 0.78rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: #777777;
+            margin: 24px 0 12px;
         }
         @media (max-width: 640px) {
             .legend-grid {
