@@ -267,7 +267,7 @@ def show_networking():
             </div>
             <div class="legend-card" style="background:#f5f5f5; border-color:#eeeeee;">
                 <div class="legend-card-title">
-                    ⬜ Gris (Relación indirecta)
+                    ⬜ Gris (Otros)
                 </div>
                 <div class="legend-card-desc">
                     No encajan en la estructura jerárquica directa de mi objetivo, pero aportan contexto, me hablan de tendencias y me dan una visión transversal del mercado.
