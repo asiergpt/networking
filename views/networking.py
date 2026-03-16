@@ -239,7 +239,7 @@ def show_networking():
                 </div>
             </div>
         </div>
-        <div class="legend-section-title">Los Post-its: Su dimensión profesional</div>
+        <div class="legend-section-title">Los Post-its: Su posición en el organigrama de las compañíasl</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f3e5f5; border-color:#e1bee7;">
                 <div class="legend-card-title">
@@ -251,7 +251,7 @@ def show_networking():
             </div>            
             <div class="legend-card" style="background:#e8f0fe; border-color:#c5cae9;">
                 <div class="legend-card-title">
-                    🟦 Azul (Pares / Similares)
+                    🟦 Azul (Homólogos)
                 </div>
                 <div class="legend-card-desc">
                    Profesionales que ocupan roles similares al que aspiro. Son mi termómetro de mercado y me ayudan a calibrar mi discurso y mi propuesta de valor.
