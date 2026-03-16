@@ -193,7 +193,7 @@ def show_networking():
             }
         }
         </style>
-        <div class="legend-section-title">#1 Los anillos: mi nivel de acceso</div>
+        <div class="legend-section-title">1) Los anillos: mi nivel de acceso</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f0fff4; border-color:#c8e6c9;">
                 <div class="legend-card-title">
@@ -223,7 +223,7 @@ def show_networking():
                 </div>
             </div>
         </div>
-        <div class="legend-section-title">#2 Los Ejes: Su rol en mi red</div>
+        <div class="legend-section-title">2) Los Ejes: Su rol en mi red</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f8f8f8;">
                 <div class="legend-card-title">🏆 Sponsors</div>
@@ -244,7 +244,7 @@ def show_networking():
                 </div>
             </div>
         </div>
-        <div class="legend-section-title">#3 Los Post-its: Su posición en el organigrama de las compañías</div>
+        <div class="legend-section-title">3) Los Post-its: Su posición en el organigrama de las compañías</div>
         <div class="legend-grid">
             <div class="legend-card" style="background:#f3e5f5; border-color:#e1bee7;">
                 <div class="legend-card-title">
